@@ -1,5 +1,5 @@
 ## MS, Actigraph study 
-setwd('C:/Users/fanti/Documents/Dolores Document/University/Biostatistics Project/Summer Research/Data cleaned/MS_CrossSec_study')
+setwd('~/MS_CrossSec_study')
 
 ########################### 
 #       Libararies
